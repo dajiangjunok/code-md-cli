@@ -1,13 +1,13 @@
 {
-  "name": "my_cli",
-  "version": "1.0.0",
+  "name": "coderyj",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "code-md": "index.js"
+    "coderyj": "index.js"
   },
   "keywords": [],
   "author": "",
