@@ -1,6 +1,6 @@
 {
   "name": "coderyj",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "CLI front-end development tools",
   "main": "index.js",
   "bin": {
